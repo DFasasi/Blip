@@ -1,7 +1,7 @@
 # Blip! (Binary Parser Language)
 
 ## General Overview
-This project revolves around the development of a simplistic toy programming language dubbed "Blip". In its initial phase (Phase A), the focus is on constructing basic straight-line code featuring fundamental assignment (var, set) and output (output, text) commands.
+This project revolves around the development of a simplistic toy programming language dubbed "Blip". In its initial phase (Phase A), the focus is on parsing and converting basic straight-line code featuring fundamental assignment (var, set) and output (output, text) commands.
 
 ## Language Design and Parsing
 Blip distinguishes itself through its parsing simplicity. This deliberate choice enables a unique syntax that deviates from conventional programming languages, opting for a prefix expression syntax instead of the more common infix. For instance, to denote "2 + 2", the syntax is "+ 2 2". This departure from traditional syntax facilitates learning and implementation from the ground up.
