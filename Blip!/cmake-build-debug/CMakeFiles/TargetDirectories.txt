@@ -1,0 +1,3 @@
+C:/ECE312H/PA8/cmake-build-debug/CMakeFiles/PA8.dir
+C:/ECE312H/PA8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ECE312H/PA8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
